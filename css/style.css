@@ -860,7 +860,7 @@ color: #aa8453;
 .nav-scroll .logo {
 }
 .nav-scroll .logo-img {
-    width: 200px;
+    width: 70px;
     margin-bottom: 0px;
 }
 .nav-scroll .logo-wrapper .logo h2 {
@@ -922,7 +922,7 @@ color: #aa8453;
     text-align: center;
 }
 .logo-img {
-    width: 200px;
+    width: 100px;
     margin-bottom: 0px;
 }
 .dropdown:hover .dropdown-menu,
@@ -1063,7 +1063,7 @@ color: #aa8453;
         padding-left: 0px;
         padding-right: 0px;
         background: transparent;
-        padding-top: 15px;
+        /* padding-top: 15px; */
         padding-bottom: 15px;
     }
     .nav-scroll {
