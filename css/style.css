@@ -860,7 +860,7 @@ color: #aa8453;
 .nav-scroll .logo {
 }
 .nav-scroll .logo-img {
-    width: 70px;
+    width: 110px;
     margin-bottom: 0px;
 }
 .nav-scroll .logo-wrapper .logo h2 {
@@ -1116,7 +1116,7 @@ color: #aa8453;
     position: relative;
     margin-bottom: 20px;
     font-family: 'Gilda Display', serif;;
-    font-size: 45px;
+    font-size: 40px;
     text-transform: uppercase;
     line-height: 1.35em;
     -webkit-animation-delay: .6s;
