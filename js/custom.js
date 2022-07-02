@@ -52,10 +52,10 @@ $(function () {
             logo = $(".navbar .logo> img");
         if (bodyScroll > 100) {
             navbar.addClass("nav-scroll");
-            logo.attr('src', 'images/WE_STAY_copy-removebg-preview.png');
+            logo.attr('src', 'images/logo-name.png');
         } else {
             navbar.removeClass("nav-scroll");
-            logo.attr('src', 'images/WE_STAY_copy-removebg-preview.png');
+            logo.attr('src', 'images/logo-name.png');
         }
     });
     
